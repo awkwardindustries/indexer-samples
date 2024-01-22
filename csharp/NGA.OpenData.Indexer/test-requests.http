@@ -1,0 +1,8 @@
+### Call to vectorize image
+POST https://CV_ENDPOINT_REQUIRED.cognitiveservices.azure.com/computervision/retrieval:vectorizeImage?model-version=latest&api-version=2023-02-01-preview
+Content-Type: application/json
+Ocp-Apim-Subscription-Key: KEY_REQUIRED
+
+{
+    "url": "https://api.nga.gov/iiif/e6890364-4d99-4684-a62b-5060ee3c3446/full/!600,600/0/default.jpg"
+}

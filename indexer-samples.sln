@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "csharp", "csharp", "{E87EA4AF-95D9-4E27-9761-009773977FE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NGA.OpenData.Indexer", "csharp\NGA.OpenData.Indexer\NGA.OpenData.Indexer.csproj", "{D6D3A5A3-A91B-4A26-916D-41F7CDAB09FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D3A5A3-A91B-4A26-916D-41F7CDAB09FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D3A5A3-A91B-4A26-916D-41F7CDAB09FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D3A5A3-A91B-4A26-916D-41F7CDAB09FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D3A5A3-A91B-4A26-916D-41F7CDAB09FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D6D3A5A3-A91B-4A26-916D-41F7CDAB09FC} = {E87EA4AF-95D9-4E27-9761-009773977FE2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08607A93-F01F-4129-B5F7-E0EEA56A2BF5}
+	EndGlobalSection
+EndGlobal
